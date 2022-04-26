@@ -11,15 +11,15 @@
 ### Desain Grafis
 
 [Alat Pembasmi Hama Wereng](https://www.canva.com/design/DAEs4poa88Q/B406qEcHKF_8TvpHyp6jlA/view?utm_content=DAEs4poa88Q&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-<img src="images/img1.jpg?raw=true"/>
+<img src="images/img1.jpeg?raw=true"/>
 
 ---
 [Origin of Universe "Big Bang"](https://www.instagram.com/p/CbrxGXZPB3fTiRg7u-7RvJ5bQ3_rin4K1vm1Ek0/?igshid=YmMyMTA2M2Y=)
-<img src="images/img2.jpg?raw=true"/>
+<img src="images/img2.jpeg?raw=true"/>
 
 ---
 [Apa Itu, Demokrasi](https://www.instagram.com/p/Cb9o1KLvDfQs4BgC6nZrGiyicZDKHLjNwqOro40/?hl=id)
-<img src="images/img3.jpg?raw=true"/>
+<img src="images/img3.jpeg?raw=true"/>
 
 ---
 
