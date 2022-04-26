@@ -5,22 +5,21 @@
 ### Jurnal 
 
 [Pemantapan Strategi Pemasaran Umkm Kepada Masyarakat Dalam Persaingan Digital Marketing Di Kelurahan Cipondoh Makmur](http://openjournal.unpam.ac.id/index.php/adt/article/view/14742)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Desain Grafis
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Alat Pembasmi Hama Wereng](https://www.canva.com/design/DAEs4poa88Q/B406qEcHKF_8TvpHyp6jlA/view?utm_content=DAEs4poa88Q&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+<img src="images/img1.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Origin of Universe "Big Bang"](https://www.instagram.com/p/CbrxGXZPB3fTiRg7u-7RvJ5bQ3_rin4K1vm1Ek0/?igshid=YmMyMTA2M2Y=)
+<img src="images/img2.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Apa Itu, Demokrasi](https://www.instagram.com/p/Cb9o1KLvDfQs4BgC6nZrGiyicZDKHLjNwqOro40/?hl=id)
+<img src="images/img3.jpg?raw=true"/>
 
 ---
 
@@ -29,8 +28,6 @@
 - [Terdampak Parah Saat Banjir Bandang di Bogor, Dosen Unpam Berikan Penyuluhan Reboisasi di Sukmajaya, Bogor](https://tangselmedia.com/terdampak-parah-saat-banjir-bandang-di-bogor-dosen-unpam-berikan-penyuluhan-reboisasi-di-sukmajaya-bogor.html)
 - [PKM Menanam Pohon Kembali, Penataan Lingkungan dengan Reboisasi Pemukiman Tanah Lereng Desa Urug, Kecamatan Sukajaya, Kabupaten Bogor](http://industri.unpam.ac.id/pkm-menanam-pohon-kembali-penataan-lingkungan-dengan-reboisasi-pemikiman-tanah-lereng/)
 - [Pemantapan Strategi untuk Pemasaran UMKM Kepada Masyarakat dalam Digital Marketing](https://www.bantennews.co.id/pemantapan-strategi-untuk-pemasaran-umkm-kepada-masyarakat-dalam-digital-marketing/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
